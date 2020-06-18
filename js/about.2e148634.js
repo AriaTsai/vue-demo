@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"7c1d":function(t,n,e){t.exports=e.p+"img/lion.d9ff55a7.png"},f820:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,n=t.$createElement,a=t._self._c||n;return a("div",{staticClass:"about"},[a("h1",[t._v("This is an about page")]),a("img",{attrs:{alt:"Vue logo",src:e("7c1d")}})])}],c=e("2877"),i={},o=Object(c["a"])(i,a,s,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=about.2e148634.js.map
